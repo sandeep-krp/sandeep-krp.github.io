@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Simple steps to deploy applications on Kubernetes using terraform"
 date:   2023-01-29 18:00:00 +0530
 categories: tech ansible helm

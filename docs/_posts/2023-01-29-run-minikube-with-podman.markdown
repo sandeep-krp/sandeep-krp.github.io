@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Experiment with Kubernetes on your local machine(Mac)"
 date:   2023-01-29 18:00:00 +0530
 categories: tech kubernetes minikube podman
